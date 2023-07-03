@@ -1,0 +1,3 @@
+Pyuic5 -x -o .\ProgramFile\ContactManagementSystem.py .\ProgramFile\ContactManagementSystem.ui
+
+pyinstaller .\main.py --name CMS.Win64 --onefile --noconsole --icon=.\Contacts.ico

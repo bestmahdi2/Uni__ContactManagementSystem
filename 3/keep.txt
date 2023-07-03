@@ -1,0 +1,20 @@
+libraries:
+    pip install pyqt5-tools
+    pip install PyQt5
+    pip install requests
+    pip install dicttoxml
+    pip install lxml
+    pip install beautifulsoup4
+
+Designer:
+    C:\Program Files\Python37\Lib\site-packages\qt5_applications\Qt\bin\designer.exe
+
+Ui to Py:
+    Pyuic5 -x -o .\Contacts.py .\UiFiles\Contacts.ui
+    Pyuic5 -x -o .\Edit.py .\UiFiles\Edit.ui
+    Pyuic5 -x -o .\Find.py .\UiFiles\Find.ui
+    Pyuic5 -x -o .\Main.py .\UiFiles\Main.ui
+    Pyuic5 -x -o .\Web.py .\UiFiles\Web.ui
+    Pyuic5 -x -o .\Save.py .\UiFiles\Save.ui
+
+

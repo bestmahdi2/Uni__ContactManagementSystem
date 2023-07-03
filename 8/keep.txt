@@ -1,0 +1,14 @@
+libraries:
+    pip install pyqt5-tools
+    pip install PyQt5
+    pip install requests
+    pip install parsel
+
+Designer:
+    C:\Program Files\Python37\Lib\site-packages\qt5_applications\Qt\bin\designer.exe
+
+Ui to Py:
+    Pyuic5 -x -o MainWindow.py MainWindow.ui
+
+py to exe:
+    pyinstaller .\Compile.py --name P_CMS --onefile --noconsole

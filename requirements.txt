@@ -1,0 +1,6 @@
+PyQt5
+requests
+persiantools
+pyperclip
+bs4
+lxml

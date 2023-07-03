@@ -1,0 +1,8 @@
+Pyuic5 -x -o .\List.py .\List.ui
+Pyuic5 -x -o .\change.py .\change.ui
+Pyuic5 -x -o .\myProzhe.py .\myProzhe.ui
+Pyuic5 -x -o .\Text.py .\Text.ui
+Pyuic5 -x -o .\Web.py .\Web.ui
+
+
+pyinstaller .\CMS.py --name CMS --onefile --noconsole
