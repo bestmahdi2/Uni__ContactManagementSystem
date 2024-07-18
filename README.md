@@ -29,8 +29,6 @@
   <img src="ScreenShots/2.png" width="70%">
   
   <img src="ScreenShots/3.png" width="70%">
-
-  <img src="ScreenShots/4.png" width="70%">
   
   <img src="ScreenShots/5.png" width="70%">
   
