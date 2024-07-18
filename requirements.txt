@@ -1,6 +1,8 @@
-PyQt5
-requests
-persiantools
-pyperclip
-bs4
+BeautifulSoup4
+dicttoxml
 lxml
+parsel
+persiantools
+PyQt5
+pyperclip
+requests
